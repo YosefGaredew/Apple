@@ -42,7 +42,6 @@ input[type="search"] {
   color: white;
 }
 
-
 /* input[type="search"]:focus {
   background-image: none;
 } */
@@ -139,6 +138,8 @@ input[type="search"] {
   background-position: bottom;
   height: 550px;
   margin-bottom: 10px;
+  margin-top: 50px;
+ 
 }
 .second-hightlight-wrapper {
   background-image: url("../images/heroes/iphone_12_pro_us__e5oyysg4k0ya_small_2x.jpg");
@@ -273,9 +274,9 @@ input[type="search"] {
     display: none;
   }
   .collapse {
-  height: 1000px;
-  background-color: black;
-}
+    height: 1000px;
+    background-color: black;
+  }
   .footer-links-wrapper ul {
     display: none;
   }
